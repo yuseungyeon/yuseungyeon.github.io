@@ -105,9 +105,9 @@ analytics:
 author:
   name             : "유승연"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : """I am an **amazing** person."
+  bio              : "나의 꿈은 데이터 사이언티스트! <br> 다양한 의견 환영해요."
   location         : "Seoul, Republic of Korea"
-  email            : "hello7615@gmail.com:
+  email            : "hello7615@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
