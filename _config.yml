@@ -120,10 +120,10 @@ author:
       #url: "https://www.facebook.com/seokjin.kim.16"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/7271kim"
+      url: "https://github.com/yuseungyeon"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/winnyony"
+      url: "https://instagram.com/win.overyu"
 
 # Site Footer
 footer:
@@ -148,7 +148,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/winnyony"
+      url: "https://instagram.com/win.overyu"
 
 
 # Reading Files
